@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 1px solid red;
+    font-family: sans-serif;
+}
+
+body {
+    background-color:beige ;
+    margin: 0rem 2rem;
+}
+
+header {
+    text-align: center;
+}
+
+nav {
+    background-color: rgb(91, 98, 86);
+    padding: 1rem 0rem;
+    margin: 0rem 0rem;
+}
+
+nav li {
+    display: inline-block;
+    font-size: 1.5rem;
+    width: 15%;
+}
+
+nav li a {
+    color: beige;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    color: brown;
+}
+
+nav li a: {
+    color: brown;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2rem;
+    color: rgb(150,95,65);
+    padding: 1rem 0rem;
+}
+
+#currentPage {
+    color: black;
+}
+
+h2 {
+    text-align: center;
+}
+
+#owners {
+    text-align: center;
+}
